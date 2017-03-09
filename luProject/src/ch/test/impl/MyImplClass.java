@@ -9,7 +9,7 @@ public class MyImplClass implements MyInterface {
 
 	@Override
 	public int getNumber() {
-		return 0;
+		return 1;
 	}
 
 }
