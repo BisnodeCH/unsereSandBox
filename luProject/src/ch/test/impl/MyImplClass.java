@@ -1,5 +1,15 @@
 package ch.test.impl;
 
-public class MyImplClass {
+/**
+ * 
+ * @author comparato
+ *
+ */
+public class MyImplClass implements MyInterface {
+
+	@Override
+	public int getNumber() {
+		return 0;
+	}
 
 }
