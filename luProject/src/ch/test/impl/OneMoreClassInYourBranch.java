@@ -9,4 +9,8 @@ package ch.test.impl;
  */
 public class OneMoreClassInYourBranch {
 
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
