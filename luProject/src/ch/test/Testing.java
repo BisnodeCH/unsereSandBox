@@ -2,9 +2,6 @@ package ch.test;
 
 public class Testing {
 
-    /**
-     * @param args
-     */
     public static long Test()
     {
         float counter=0.0f;
